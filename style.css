@@ -1,0 +1,48 @@
+body{
+
+background-color: #3c3c3d;
+width:800px;
+position: auto;
+font-family: sans-serif;
+     margin: auto;
+}
+
+h1{
+    
+    text-align: center;
+    color: darkgrey;
+    
+}
+
+h3{
+    
+    text-align: center;
+    color: darkgrey;
+    
+}
+div.zadanie{
+    padding-top: 20px;
+    text-align: center;
+    color: #bfd7ff;
+}
+div{
+ margin:auto;
+ box-sizing: border-box;
+padding: 5px;
+    
+}
+div.tab1, .nav {
+    border:1px solid black;
+    border-radius:15px;
+    font-size: 12pt;
+    color: black;
+    text-align: center;
+    background-color: #7da3e0;
+}
+
+div.selection{
+    background-color: #7ee07d;
+    color: 
+}
+
+  
